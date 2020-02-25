@@ -1,5 +1,5 @@
 {
-  "name": "git-test",
+  "name": "c",
   "version": "1.0.0",
   "description": "This is a test directory to tlearn Git and Node",
   "main": "index.html",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/mehmetarat/git-test/issues"
   },
-  "homepage": "https://github.com/mehmetarat/git-test#readme"
+  "homepage": "https://github.com/mehmetarat/git-test#readme",
+  "keywords": [
+    "C"
+  ],
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {}
 }
